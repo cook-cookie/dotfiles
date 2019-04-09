@@ -8,6 +8,7 @@ export LANG=ja_JP.UTF-8
 export PATH=$PATH:/usr/local/Cellar/graphviz/2.40.1/bin
 export PATH="/usr/local/opt/openssl/bin:$PATH"
 export PATH="/usr/local/opt/sqlite/bin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
 
 # 色を使用出来るようにする
 autoload -Uz colors
