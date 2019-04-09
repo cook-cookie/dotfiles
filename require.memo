@@ -1,0 +1,34 @@
+やることリスト
+sudo vim /etc/shells
+に
+/usr/local/bin/zsh
+を追記、その後
+chsh -s /usr/local/bin/zsh
+をしてターミナル再起動
+
+need cask
+slack
+pycharm
+microsoft-office
+google-japanese-ime
+sourcetree
+visual-studio-code
+1password
+shiftit
+cmd-eikana
+iterm2
+discord
+appcleaner
+google-chrome
+
+
+need mas
+539883307 LINE
+
+need brew
+git
+vim
+mas
+zsh
+htop
+
