@@ -28,4 +28,5 @@ brew "wget"
 brew "zsh"
 brew "argon/mas/mas"
 cask "appcleaner"
+cask "typora"
 mas "", id: 539883307
