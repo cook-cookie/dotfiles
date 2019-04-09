@@ -29,4 +29,5 @@ brew "zsh"
 brew "argon/mas/mas"
 cask "appcleaner"
 cask "typora"
-mas "", id: 539883307
+mas "LINE", id: 539883307
+mas "GarageBand", id: 682658836
