@@ -16,4 +16,4 @@ do
     ln -s $HOME/dotfiles/$file $HOME/$file
 done
 brew bundle
-echo
+echo 'Complete!'
